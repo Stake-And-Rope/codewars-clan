@@ -32,4 +32,4 @@ Requirements in order to contribute to the repository:
 * `Difficulty` - The exact difficulty of the Kata
 * `Submitter` - Your GitHub nickname
 
-A perfect example should look like this:
+	💡A perfect example should look like this:
