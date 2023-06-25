@@ -6,10 +6,11 @@ The purpose of this repository is to collect all the submitted Codewars solution
 #### How to 📖
 Requirements in order to contribute to the repository:
 
-1‍⃣ Create account on https://www.codewars.com/
-2‍⃣ On Codewars, edit your account settings and join the `StakeAndRope` clan. Just type in the name of the clan in the empty text field and click the `UPDATE` button on the bottom of the page.
+:one: Create account on https://www.codewars.com/
+:two: On Codewars, edit your account settings and join the `StakeAndRope` clan. Just type in the name of the clan in the empty text field and click the `UPDATE` button on the bottom of the page.
 ![[Pasted image 20230625104911.png]]
-3‍⃣ Clone the GitHub repository locally on your computer.
+:three: Clone the GitHub repository locally on your computer.
 	* The repository has one default branch called `main` protected by branch rules which doesn't allow you to commit directly your changes.
 	* After you clone the repository locally, create new branch, preferably named with your GitHub username. On that branch you will upload your exercises.
-4‍⃣
+
+:four:
