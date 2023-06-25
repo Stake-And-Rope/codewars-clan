@@ -18,4 +18,7 @@ Requirements in order to contribute to the repository:
  
 * After you clone the repository locally, create new branch, preferably named with your GitHub username. On that branch you will upload your exercises.
 
-:four:
+:four: Each programming language has it's own directory where to submit your files. IF there is not existing directory for the language you are currently practicing, create a new folder in the main directory with the specific programming language name and use it to submit your code.
+
+:five: Inside each programming language folder you will find child folders for each difficulty. The Kata's on Codewars are separated on different difficulty levels from 1(hardest) up to 8(easiest). 
+![[Pasted image 20230625111722.png]]
