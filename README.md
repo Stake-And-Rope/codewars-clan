@@ -53,5 +53,6 @@ Requirements in order to contribute to the repository
 
 ### Contributors 🧑‍🏭
 * Your name will appear here if you committed successfully your code in the `main` branch
-[@karastoyanov](https://github.com/karastoyanov)
+  
+	[@karastoyanov](https://github.com/karastoyanov)
 
