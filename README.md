@@ -33,3 +33,4 @@ Requirements in order to contribute to the repository:
 * `Submitter` - Your GitHub nickname
 
 	💡A perfect example should look like this:
+![image](https://github.com/Stake-And-Rope/codewars-clan/assets/86146020/91aa2e34-c0d6-4ddd-b47c-cbdbcaf2a48c)
