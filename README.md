@@ -10,7 +10,8 @@ Requirements in order to contribute to the repository:
 
 :two: On Codewars, edit your account settings and join the `StakeAndRope` clan. Just type in the name of the clan in the empty text field and click the `UPDATE` button on the bottom of the page.
 
-![clan-example](https://github.com/Stake-And-Rope/codewars-clan/blob/main/images/Pasted%20image%2020230625104911.png)
+![image](https://github.com/Stake-And-Rope/codewars-clan/assets/86146020/1ba614cc-c3d3-406c-bf03-77c2f2debbb0)
+
 
 :three: Clone the GitHub repository locally on your computer
 
@@ -22,7 +23,8 @@ Requirements in order to contribute to the repository:
 
 :five: Inside each programming language folder you will find child folders for each difficulty. The Kata's on Codewars are separated on different difficulty levels from 1(hardest) up to 8(easiest). Submit your code on the respective difficulty folder for your language. If the folder doesn't exist, you can create it by yourself.
 
-![codewars-kyu](https://github.com/Stake-And-Rope/codewars-clan/blob/main/images/Pasted%20image%2020230625111722.png?raw=true)
+![image](https://github.com/Stake-And-Rope/codewars-clan/assets/86146020/2cc73565-8d1d-4c0e-8b82-f701760dfc5c)
+
 
 :six: Create/Upload the new file containing the solution of Kata. One the rop of your file add three lines as comments:
 
