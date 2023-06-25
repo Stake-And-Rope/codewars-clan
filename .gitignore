@@ -1,0 +1,8 @@
+# Ignore Obsidian config files
+.obsidian/
+
+# Ignore VS Code config files
+.vscode/
+
+# Ignore PyCharm config files
+.idea/
