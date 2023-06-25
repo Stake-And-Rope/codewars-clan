@@ -9,7 +9,8 @@ Requirements in order to contribute to the repository:
 :one: Create account on https://www.codewars.com/
 
 :two: On Codewars, edit your account settings and join the `StakeAndRope` clan. Just type in the name of the clan in the empty text field and click the `UPDATE` button on the bottom of the page.
-[clan-example](https://github.com/Stake-And-Rope/codewars-clan/blob/main/images/Pasted%20image%2020230625104911.png)
+
+![clan-example](https://github.com/Stake-And-Rope/codewars-clan/blob/main/images/Pasted%20image%2020230625104911.png)
 
 :three: Clone the GitHub repository locally on your computer.
 	* The repository has one default branch called `main` protected by branch rules which doesn't allow you to commit directly your changes.
