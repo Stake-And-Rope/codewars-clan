@@ -26,7 +26,7 @@ Requirements in order to contribute to the repository:
 ![image](https://github.com/Stake-And-Rope/codewars-clan/assets/86146020/2cc73565-8d1d-4c0e-8b82-f701760dfc5c)
 
 
-:six: Create/Upload the new file containing the solution of Kata. One the rop of your file add three lines as comments:
+:six: Create/Upload the new file containing the solution of Kata. One the top of your file add multi-line comments:
 
 * `Kata's URL address` - the URL address of the Kata
 * `Difficulty` - The exact difficulty of the Kata
