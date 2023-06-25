@@ -35,4 +35,6 @@ Requirements in order to contribute to the repository:
 	💡A perfect example should look like this:
 ![image](https://github.com/Stake-And-Rope/codewars-clan/assets/86146020/91aa2e34-c0d6-4ddd-b47c-cbdbcaf2a48c)
 
-* When you decide you would like to merge your solutions with the `main` branch you can open pull-request from your branch to the `main` branch
+* When you decide you would like to merge your solutions with the `main` branch you can open pull-request from your branch to the `main` branch. You can use #1 as template for your pull-request.
+* ⚠️ Assign @karastoyanov as Reviewer
+* If your pull-request and commits are approved, your changes will be merged with the `main` branch. In case your code or pull-request needs additional modifications, a code review request will be open
