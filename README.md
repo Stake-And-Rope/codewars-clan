@@ -14,8 +14,8 @@ Requirements in order to contribute to the repository:
 
 :three: Clone the GitHub repository locally on your computer
 
-	* The repository has one default branch called `main` protected by branch rules which doesn't allow you to commit directly your changes.
-	
-	* After you clone the repository locally, create new branch, preferably named with your GitHub username. On that branch you will upload your exercises.
+* The repository has one default branch called `main` protected by branch rules which doesn't allow you to commit directly your changes.
+ 
+* After you clone the repository locally, create new branch, preferably named with your GitHub username. On that branch you will upload your exercises.
 
 :four:
