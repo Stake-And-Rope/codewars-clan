@@ -17,4 +17,6 @@ Check the [CONTRIBUTING.md](https://github.com/Stake-And-Rope/codewars-clan/blob
 * Your name will appear here if you committed successfully your code in the `main` branch
   
 	[@karastoyanov](https://github.com/karastoyanov)
+	[@rayapetkova](https://github.com/rayapetkova)
+	[@the-adventurist](https://github.com/the-adventurist)
 
